@@ -74,3 +74,6 @@ O logotipo combina uma **marca gráfica sem texto**: uma fita coral que contorna
 - Blocos de interface não devem parecer cartões genéricos: cada um precisa se comportar como página de caderno, anotação de margem, entrada de índice, referência recortada ou folha de exercício.
 - Os sinais de desempenho devem usar rota marcada, traço de caneta ou anotação de progresso; medidores circulares isolados não fazem parte da linguagem visual.
 - O Coral de Rota (`#E85D43`) fica restrito à posição no percurso, avanço, atenção e ação primária, aparecendo como a régua visual que conecta o estudante ao longo da página.
+- Todo bloco de desempenho deve se comportar como evidência anotada em apostila, com traços de rota, marcas e pequenas notas manuscritas, não como uma métrica isolada.
+- As imagens e a assinatura visual da plataforma devem reforçar páginas dobradas, grifos azul-tinta e fita coral como sinais proprietários de estudo guiado.
+- O wordmark preserva “Rota” em serifado expressivo e “da Aprovação” em sans funcional, sempre acompanhado pela marca de fita coral e páginas azuis.

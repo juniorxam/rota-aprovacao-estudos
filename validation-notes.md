@@ -19,3 +19,9 @@ Na primeira leitura síncrona logo após o clique, o armazenamento local ainda r
 Após a renderização, a alternativa correta exibiu o retorno “Boa leitura”, a explicação e o indicador de acerto passou para 100% com uma tentativa registrada. Ao marcar a aula como concluída, o roteiro exibiu 13% e 1 de 8 tópicos concluídos; o botão e a entrada correspondente do índice também assumiram o estado de conclusão. O player continuou disponível na própria página durante a interação.
 
 Após recarregar a página, a plataforma preservou o estado de 13% de roteiro concluído, o resultado de 100% de acerto e o feedback da questão. Isso confirma o salvamento local implementado para o MVP estático.
+
+## Expansão do edital completo
+
+Na versão ampliada, a navegação lateral exibiu as seis disciplinas do edital. A troca para Matemática e Raciocínio Lógico atualizou corretamente a trilha para quatro blocos, o panorama de disciplina, a questão autoral e a aula incorporada “Matemática e Raciocínio Lógico do Zero — Aula 1”, do Prof. Felippe Loureiro. O player carregou dentro da plataforma e a interface preservou o progresso global já registrado em Português.
+
+A troca para Assistente de Serviços de Saúde também carregou os quatro blocos técnicos do cargo, a aula incorporada de Administração Pública e a questão correspondente. A resposta correta atualizou o indicador específico da disciplina para 100% de acerto, sem alterar indevidamente o progresso de conclusão das outras áreas.
